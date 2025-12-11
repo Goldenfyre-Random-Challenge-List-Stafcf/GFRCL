@@ -1,7 +1,7 @@
 [package]
-name = "pointercrate"
-version = "0.1.0"
-edition = "2018"
+name = "goldenfyre random challenge list"
+version = "1.0.0"
+edition = "2025"
 build = "build_documentation.rs"
 
 [dependencies]
